@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="7176754d-5148-4791-9bf9-77744529a933" name="Photo_Search" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="7176754d-5148-4791-9bf9-77744529a933fileName">Photo_Search</con:setting></con:settings><con:savedRecentRuns>1</con:savedRecentRuns><con:runType>SEQUENTIAL</con:runType><con:properties/><con:reportParameters/></con:testSuite>
